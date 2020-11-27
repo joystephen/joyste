@@ -1,3 +1,4 @@
+closed issue
 final test
 added hello
 ponies
